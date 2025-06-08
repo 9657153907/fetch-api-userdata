@@ -1,7 +1,7 @@
 # 🌐 FetchVerse: Explore Users
 
 ## 📌 Task
-Internship Task 7: Use JavaScript Fetch API to retrieve and display user data from a public API.
+Task : Use JavaScript Fetch API to retrieve and display user data from a public API.
 
 ## 🔧 Tech Stack
 - HTML5
@@ -26,8 +26,4 @@ Learned:
 - JSON parsing and DOM manipulation
 - Error handling best practices
 
-## 📸 Screenshot
-(Add screenshot here if needed)
 
-## 🚀 Submission
-GitHub Link: [your-repo-link]
